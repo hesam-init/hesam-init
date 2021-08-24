@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hesam YUsefpur <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A Front-End (and a beginner designer) developer from Iran</h3>
+<h1 align="center">Hi 👋, I'm Hesam Yusefpur <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
+<h2 align="left">A Front-End (and a beginner designer) developer from Iran</h2>
+
 
 - 🔭 I’m currently working on my **JS Course**
 
@@ -11,6 +13,7 @@
 
 - ⚡ What I like to do: **I like so much UI&UX**
 
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -18,7 +21,9 @@
   
 </div>
 
+
 ------
+
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -44,6 +49,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hesam-init&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesam-init&theme=react&layout=compact" />
 </p>
+
 
 ------
 
