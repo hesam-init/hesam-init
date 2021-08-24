@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hesam Yusefpur <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h2 align="left">A Front-End (and a beginner designer) developer from Iran</h2>
 
-
 - 🔭 I’m currently working on my **JS Course**
 
 - 🌱 I’m currently learning **JS,HTML,CSS & Libraries**
