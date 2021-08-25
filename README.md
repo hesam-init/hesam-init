@@ -47,7 +47,7 @@
 <p align= "center">
   <img alt="Hesam-init" height= "150" src="https://github-readme-stats.vercel.app/api?username=hesam-init&show_icons=true&theme=radical" />
   <img alt="Hesam-init" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesam-init&theme=radical&layout=compact" />
-  <img alt="Hesam-init" width= "750" src="https://activity-graph.herokuapp.com/graph?username=hesam-init&custom_title=Hesam's%20Contribution%20Graph&theme=react-dark" />
+  <img alt="Hesam-init" width= "750" src="https://activity-graph.herokuapp.com/graph?username=hesam-init&theme=radical" />
 </p>
 
 
