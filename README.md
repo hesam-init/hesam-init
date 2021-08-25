@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end and Back-end projects**
 
-- 📫 How to reach me: [![image](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:hesam.init@gmail.com)](mailto:hesam.init@gmail.com)
+- 📫 How to reach me: [![image](https://img.shields.io/badge/-hesam.init@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hesam.init@gmail.com)](mailto:hesam.init@gmail.com)
 
 - ⚡ What I like to do: **I like so much UI&UX**
 
