@@ -6,21 +6,11 @@
 
 - 🌱 I’m currently learning **JS,HTML,CSS & Libraries**
 
-- 👯 I’m looking to collaborate on **Front-end and Back-end projects**
+- 👯 I’m looking to collaborate on **Front-end projects**
 
 - 📫 How to reach me: [![image](https://img.shields.io/badge/-hesam.init@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hesam.init@gmail.com)](mailto:hesam.init@gmail.com)
 
 - ⚡ What I like to do: **I like so much UI&UX**
-
-------
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img alt="OS" src="https://img.shields.io/badge/Windows-Pc-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img alt="RAM" src="https://img.shields.io/badge/RAM-2GB-%230071C5.svg?&style=flat&logoColor=white" />
-  <img alt="SSD" src="https://img.shields.io/badge/128%20GB%20SSD-Solid%20State%20Disk-lightgrey?style=flat" />
-  <img alt="HDD" src="https://img.shields.io/badge/500%20GB%20HDD-Hard%20Disk-lightgrey?style=flat" />
-</p>
 
 ------
 
