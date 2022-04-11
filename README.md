@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on my **JS Course**
 
-- 🌱 I’m currently learning **JS,HTML,CSS & Libraries**
+- 🌱 I’m currently learning **JS,HTML,CSS,ReactJs & Libraries**
 
-- 👯 I’m looking to collaborate on **Front-end projects**
+- 👯 I’m looking to collaborate on **React js projects**
 
 - 📫 How to reach me: [![image](https://img.shields.io/badge/-hesam.init@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hesam.init@gmail.com)](mailto:hesam.init@gmail.com)
 
