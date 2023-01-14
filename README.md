@@ -15,7 +15,6 @@
 ------
 
 <div align="center">
-  <img alt="Hesam-init" width= "700" src="https://activity-graph.herokuapp.com/graph?username=hesam-init&theme=github" />
   <img alt="Hesam-init" height= "150" src="https://github-readme-stats.vercel.app/api?username=hesam-init&show_icons=true&theme=discord_old_blurple" />
   <img alt="Hesam-init" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesam-init&theme=discord_old_blurple&layout=compact" />
 </div>
