@@ -2,15 +2,15 @@
 
 ***A Front-End (and a beginner designer)***
 
-- 🔭 I’m currently working on my **JS Course**
+- 🔭 I’m currently working on my **Web Projects**
 
-- 🌱 I’m currently learning **JS,HTML,CSS,ReactJs & Libraries**
+- 🌱 I’m currently learning **React.Js , Typescript & Libraries**
 
-- 👯 I’m looking to collaborate on **React js projects**
+- 👯 I’m looking to collaborate on **React.js projects**
 
 - 📫 How to reach me: [![image](https://img.shields.io/badge/-hesam.init@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hesam.init@gmail.com)](mailto:hesam.init@gmail.com)
 
-- ⚡ What I like to do: **I like so much UI&UX**
+- ⚡ What I like to do: **Play games**
 
 ------
 
