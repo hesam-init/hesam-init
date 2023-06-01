@@ -2,6 +2,10 @@
 
 ***A Front-End (and a beginner designer)***
 
+```javascript
+const lifeTip = "luck" !== "grind";
+```
+
 - 🔭 I’m currently working on my **Web Projects**
 
 - 🌱 I’m currently learning **React.Js , Typescript & Libraries**
