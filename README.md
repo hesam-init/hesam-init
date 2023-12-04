@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hesam Yusefpur <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-***A Front-End (and a beginner designer)***
+***A Front-End Developer***
 
 ```javascript
 const lifeTip = "luck" !== "grind";
