@@ -29,7 +29,7 @@ What fuels my drive in web development is the exhilarating challenge of solving 
 
 <div align="center">
 
-[![Working Tools](https://skillicons.dev/icons?i=rust,mysql,docker,linux,bash)](https://skillicons.dev)
+[![Working Tools](https://skillicons.dev/icons?i=go,mysql,docker,linux,bash)](https://skillicons.dev)
 
 </div>
 
