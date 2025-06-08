@@ -22,11 +22,15 @@ What fuels my drive in web development is the exhilarating challenge of solving 
 
 ### Currently working with || Skills
 
-[![Working Tools](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,next)](https://skillicons.dev)
+[![Working Tools](https://skillicons.dev/icons?i=html,css,scss,tailwind,reactivex,react,next,vite)](https://skillicons.dev)
+
+<div></div>
+
+[![Toolchains](https://skillicons.dev/icons?i=nodejs,bun,deno,js,ts)](https://skillicons.dev)
 
 ### Learning
 
-[![Working Tools](https://skillicons.dev/icons?i=go,mysql,docker,linux,bash)](https://skillicons.dev)
+[![Learning Tools](https://skillicons.dev/icons?i=go,mysql,docker,linux,bash)](https://skillicons.dev)
 
 <!--
 ### Desktop
