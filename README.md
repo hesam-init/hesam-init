@@ -16,22 +16,17 @@ I'm Hesam Yusefpur, a web developer specializing in React and Next.js since 2020
 
 What fuels my drive in web development is the exhilarating challenge of solving intricate problems and crafting innovative solutions. The dynamic nature of front-end work keeps me engaged, offering constant opportunities for learning and growth. Whether it's mastering a new framework or experimenting with cutting-edge tools, I'm always eager to expand my skills.
 
+<a href="https://github.com/hesam-init/hesam-init/releases/download/resume/Hesam-Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs" alt="Resume" />
+</a>
 
 ### Currently working with || Skills
 
-<div align="center">
-
 [![Working Tools](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,next)](https://skillicons.dev)
-
-</div>
 
 ### Learning
 
-<div align="center">
-
 [![Working Tools](https://skillicons.dev/icons?i=go,mysql,docker,linux,bash)](https://skillicons.dev)
-
-</div>
 
 <!--
 ### Desktop
